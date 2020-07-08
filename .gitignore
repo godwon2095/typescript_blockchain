@@ -4,3 +4,4 @@
 # dotenv environment variables file
 .env
 dist
+node_modules
